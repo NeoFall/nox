@@ -1,0 +1,15 @@
+
+body {
+  background-color: #000; /* Black background color for the entire page */
+  font-family: 'sans-serif';
+  color: #fff; /* Text color for the entire page */
+  text-align: center;
+  text-size-adjust: 200%;
+  font-size: 90px;
+}
+
+p {
+  color: #737868; /* Different color for paragraphs */
+  font-size: 18px; /* Different font size for paragraphs */
+  font-family: 'monospace'; /* Different font family for paragraphs */
+}
